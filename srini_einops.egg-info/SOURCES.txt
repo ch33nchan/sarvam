@@ -1,0 +1,10 @@
+README.md
+setup.py
+srini_einops/__init__.py
+srini_einops/core.py
+srini_einops/parsing.py
+srini_einops.egg-info/PKG-INFO
+srini_einops.egg-info/SOURCES.txt
+srini_einops.egg-info/dependency_links.txt
+srini_einops.egg-info/requires.txt
+srini_einops.egg-info/top_level.txt
